@@ -1,0 +1,71 @@
+{
+    "navitems": [
+        {
+            "name": "pages",
+            "children": [
+
+                {
+                    "name": "index.js"
+                },
+                {
+                    "name": "profile.js"
+                },
+                {
+                    "name": "settings.js"
+                },
+                {
+                    "name": "signin.js"
+                }
+            ]
+        },
+        {
+            "name": "src",
+            "children": [
+                {
+                    "name": "components",
+                    "children": [
+                        {
+                            "name": "Button.js"
+                        },
+                        {
+                            "name": "Card.js"
+                        },
+                        {
+                            "name": "Card.js"
+                        },
+                        {
+                            "name": "Input.js"
+                        }
+                    ]
+                },
+                {
+                    "name": "index.js"
+                },
+                {
+                    "name": "App.js"
+                }
+            ]
+        },
+        {
+            "name": "public",
+            "children": [
+                {
+                    "name": "assets",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "package.json"
+        },
+        {
+            "name": "config.js"
+        },
+        {
+            "name": "yarn.lock"
+        },
+        {
+            "name": "readme.md"
+        }
+    ]
+}
